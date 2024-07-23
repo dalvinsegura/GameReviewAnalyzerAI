@@ -83,7 +83,3 @@ The application can be accessed via the following URL on Vercel: [https://your-v
 - **Azure NLP**: Natural Language Processing service for classifying reviews.
 - **Azure SQL Database**: Database service for storing and managing data.
 - **PowerBI**: Business analytics service for data visualization.
-
-## License
-
-This project is licensed under the MIT License.
